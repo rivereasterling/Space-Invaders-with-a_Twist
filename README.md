@@ -1,5 +1,5 @@
 # Space-Invaders-with-a_Twist
-Contains the link to both the main 
+Contains the link to both the main,testcase and asset file which is the img file.
 Remeber inorder to get this too work you need to put the assets file into the python project file 
 to do this for pycharm do
 User/River(whateveryouruseriscalled)/PycharmProjects/pythonprojects then move the folder into pythonprojects
